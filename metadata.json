@@ -1,0 +1,8 @@
+{
+  "name": "Remix ConceptMap Studio - Dynamic Multimedia Mind \u0026 Concept Mapper",
+  "description": "Herramienta interactiva para la creación, personalización, visualización jerárquica y exportación en alta resolución (PNG/PDF) de Mapas Conceptuales Multimedia con soporte para Cloudinary y YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
